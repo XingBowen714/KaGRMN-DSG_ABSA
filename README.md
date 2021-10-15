@@ -12,7 +12,7 @@ Our framework:
 
 Details of KaGRMN:
 
-<img src="imgs/kaGRMN.pdf">
+<img src="imgs/kagrmn.pdf">
 
 ## Requirements
 Our code relies on Python 3.6 and following libraries:

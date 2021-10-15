@@ -36,7 +36,7 @@ Our code relies on Python 3.6 and following libraries:
 ```
 
 ## Citation
-If you use any source codes included in this repo in your work, please cite the following paper. 
+If you use our source code in this repo in your work, please cite the following paper. 
 The bibtex are listed below:
 
 <pre>

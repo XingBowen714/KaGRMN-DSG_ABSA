@@ -10,7 +10,7 @@ Our framework:
 
 <img src="imgs/framework.png">
 
-Details of KaGRMN:
+Details of KaGRMN cell:
 
 <div align = center><img src="imgs/kagrmn.png" width= 50% height = 50%></div>
 

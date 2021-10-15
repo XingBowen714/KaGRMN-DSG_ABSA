@@ -6,11 +6,13 @@ Bowen Xing and Ivor Tsang.
 
 ## Architectures
 
-![Our framework:](imgs/framework.png)
+Our framework:
 
+<img src="imgs/framework.png">
 
-![Details of KaGRMN:](imgs/kagrmn.png)
+Details of KaGRMN:
 
+<img src="imgs/kagrmn.png" width= 50% height = 50%>
 
 ## Requirements
 Our code relies on Python 3.6 and following libraries:

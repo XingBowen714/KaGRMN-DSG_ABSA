@@ -12,7 +12,7 @@ Our framework:
 
 Details of KaGRMN:
 
-<img src="imgs/kagrmn.png" width= 50% height = 50%>
+<div align = center><img src="imgs/kagrmn.png" width= 50% height = 50%>
 
 ## Requirements
 Our code relies on Python 3.6 and following libraries:

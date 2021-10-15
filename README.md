@@ -1,6 +1,6 @@
 # KaGRMN-DSG_ABSA
 This repository contains the PyTorch source Code for our paper: **[Understand me, if you refer to Aspect Knowledge: Knowledge-aware Gated Recurrent Memory Network](https://arxiv.org/abs/2108.02352)**.
-Bowen Xing, Ivor Tsang.
+Bowen Xing and Ivor Tsang.
 
 ***Under Review in TETCI***.
 

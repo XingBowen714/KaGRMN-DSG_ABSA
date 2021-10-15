@@ -8,11 +8,11 @@ Bowen Xing, Ivor Tsang.
 
 Our framework:
 
-<img src="img/framework.pdf">
+<img src="imgs/framework.pdf">
 
 Details of KaGRMN:
 
-<img src="img/kaGRMN.pdf">
+<img src="imgs/kaGRMN.pdf">
 
 ## Requirements
 Our code relies on Python 3.6 and following libraries:

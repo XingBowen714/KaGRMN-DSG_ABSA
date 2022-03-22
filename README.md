@@ -36,9 +36,8 @@ Our code relies on Python 3.6 and following libraries:
 ```
 
 ## Citation
-If you use our source code in this repo in your work, please cite the following paper. 
-The bibtex are listed below:
-
+If the code is used in your research, please star this repo and cite our paper :)
+The bibtex of our paper is:
 <pre>
 @misc{bowen2021KaGRMN,
       title={Understand me, if you refer to Aspect Knowledge: Knowledge-aware Gated Recurrent Memory Network}, 

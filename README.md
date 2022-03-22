@@ -36,7 +36,7 @@ Our code relies on Python 3.6 and following libraries:
 ```
 
 ## Citation
-If the code is used in your research, please cite our paper (and star this repo ^_^) as follows:
+If the code is used in your research, please star this repo ^_^ and cite our paper  as follows:
 <pre>
 @misc{bowen2021KaGRMN,
       title={Understand me, if you refer to Aspect Knowledge: Knowledge-aware Gated Recurrent Memory Network}, 

@@ -70,7 +70,7 @@ def parse_args():
     parser.add_argument('--stack_num', type=int, default=1,
                         help='Number of representation entagling module stacks.')
 
-    parser.add_argument('--num_gcn_layers', type=int, default=1,
+    parser.add_argument('--n_gcn', type=int, default=1,
                         help='Number of GCN layers.')
     parser.add_argument('--gcn_mem_dim', type=int, default=300,
                         help='Dimension of the W in GCN.')
@@ -147,7 +147,9 @@ def main():
     # Parse args
     args = parse_args()
     check_args(args)
-
+    args.pure_bert = False
+    args.highway = False
+    args.one_bert = False
     # Setup CUDA, GPU training
     
 #os.environ["CUDA_VISIBLE_DEVICES"] = args.cuda_id

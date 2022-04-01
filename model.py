@@ -10,7 +10,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence, pad_se
 
 from model_gcn import GAT, Rel_GAT
 from model_utils import GCN, MultiHeadAttention, LinearAttention, DotprodAttention, BiRelationAttention, RelationAttention, Highway, mask_logits
-from tree import *
+#from tree import *
 
 class KaGRMN_DSG(nn.Module):
     

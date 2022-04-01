@@ -215,10 +215,7 @@ def get_arranged_data(input_data, graph, args):
         pos_class = e['tags']
 
         # Iterate through aspects in a sentence and reshape the dependency tree.
-        if args.noak:
-            description = e['aspect']
-        else:
-            description = e['asp_des']
+        description = e['asp_des']
         description = word_tokenize(description.lower())
         aspect = word_tokenize(e['aspect'])
         frm = e['asp_position']

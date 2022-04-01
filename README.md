@@ -38,12 +38,12 @@ Our code relies on Python 3.6 and following libraries:
 ## Citation
 If the code is used in your research, please star this repo ^_^ and cite our paper  as follows:
 <pre>
-@misc{bowen2021KaGRMN,
-      title={Understand me, if you refer to Aspect Knowledge: Knowledge-aware Gated Recurrent Memory Network}, 
-      author={Bowen Xing and Ivor Tsang},
-      year={2021},
-      eprint={2108.02352},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@ARTICLE{9735156,  author={Xing, Bowen and Tsang, Ivor W.},  
+journal={IEEE Transactions on Emerging Topics in Computational Intelligence},   
+title={Understand Me, if You Refer to Aspect Knowledge: Knowledge-Aware Gated Recurrent Memory Network},  
+year={2022},  
+volume={},  
+number={},  
+pages={1-11},  
+doi={10.1109/TETCI.2022.3156989}}
 </pre>
